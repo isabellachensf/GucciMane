@@ -1,0 +1,47 @@
+body {
+    background:linear-gradient(blue, lightblue, #ccf5ff);
+    font-family: Verdana;
+    font-style: normal;
+         color: white;
+   
+}
+   
+.container {
+    width: 800px; 
+    border: 3px dotted red;
+     margin:auto;
+    padding: 20px; 
+}
+
+    
+p {    
+    font-family: arial;
+    text-indent: 50px;
+    font-size: 17px;
+    font-weight: normal;
+    color: white;
+}
+
+.childhood,
+.career,
+.success {
+    text-align: center;
+    line-height: 10%;
+    color:#00ccff;
+    text-shadow: 2px 2px #ff0000;
+}
+
+.madeit {
+    text-align: center;
+    letter-spacing: 4px;
+    line-height: 1%; 
+    color:#00ccff;
+    font-size:53px;     
+}
+
+
+
+
+
+
+
